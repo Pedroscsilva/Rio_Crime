@@ -1,0 +1,54 @@
+crime,nome,tipo,name,type
+hom_doloso,Homícidio Doloso,Crime Contra a Vida,Intentional Homicide,Crime Against Life
+lesao_corp_morte,Lesão Corporal com Morte,Crime Contra a Vida,Bodily Harm Resulting in Death,Crime Against Life
+latrocinio,Latrocínio,Crime Contra a Vida,Robbery with Death,Crime Against Life
+cvli,Crime Violento Letal Intencional,Crime Contra a Vida,Intentional Violent Lethal Crime,Crime Against Life
+hom_por_interv_policial,Homicídio por Intervenção Policial,Crime Contra a Vida,Homicide by Police Intervention,Crime Against Life
+letalidade_violenta,Letalidade Violenta,Crime Contra a Vida,Violent Lethality,Crime Against Life
+tentat_hom,Tentativa de Homicídio,Crime Contra a Vida,Attempted Homicide,Crime Against Life
+lesao_corp_dolosa,Lesão Corporal Dolosa,Crime Contra a Integridade Física,Intentional Bodily Harm,Crime Against Physical Integrity
+estupro,Estupro,Crime Contra a Vida,Rape,Crime Against Life
+hom_culposo,Homicídio Culposo,Crime Contra a Vida,Unintentional Homicide,Crime Against Life
+lesao_corp_culposa,Lesão Corporal Culposa,Crime Contra a Integridade Física,Unintentional Bodily Harm,Crime Against Physical Integrity
+roubo_transeunte,Roubo Transeunte,Roubos,Mugging,Robbery
+roubo_celular,Roubo de Celular,Roubos,Cell Phone Robbery,Robbery
+roubo_em_coletivo,Roubo em Coletivo,Roubos,Collective Robbery,Robbery
+roubo_rua,Roubo na Rua,Roubos,Street Robbery,Robbery
+roubo_veiculo,Roubo de Veículo,Roubos,Vehicle Robbery,Robbery
+roubo_carga,Roubo de Carga,Roubos,Cargo Robbery,Robbery
+roubo_comercio,Roubo de Comércio,Roubos,Store Robbery,Robbery
+roubo_residencia,Roubo de Residência,Roubos,House Robbery,Robbery
+roubo_banco,Roubo de Banco,Roubos,Bank Robbery,Robbery
+roubo_cx_eletronico,Roubo de Caixa Eletrônico,Roubos,ATM Robbery,Robbery
+roubo_conducao_saque,Roubo com Condução de Saque,Roubos,Robbery with Forced Withdrawal,Robbery
+roubo_apos_saque,Roubo após Saque,Roubos,Robbery after Money Withdrawal,Robbery
+roubo_bicicleta,Roubo de Bicicleta,Roubos,Bike Robbery,Robbery
+outros_roubos,Outros Roubos,Roubos,Other Robbery,Robbery
+total_roubos,Total de Roubos,Roubos,Total Robberies,Robbery
+furto_veiculos,Furto de Veículos,Furtos,Vehicle Theft,Theft
+furto_transeunte,Furto Transeuntes,Furtos,Pickpocketing,Theft
+furto_coletivo,Furto em Coletivo,Furtos,Collective Theft,Theft
+furto_celular,Furto de Celular,Furtos,Phone Theft,Theft
+furto_bicicleta,Furto de Bicicleta,Furtos,Bike Theft,Theft
+outros_furtos,Outros Furtos,Furtos,Other Theft,Theft
+total_furtos,Total de Furtos,Furtos,Total Thefts,Theft
+sequestro,Sequestro,Crime Contra a Pessoa,Kidnapping,Crime Against the Person
+extorsao,Extorsão,Crime Contra a Pessoa,Extortion,Crime Against the Person
+sequestro_relampago,Sequestro Relâmpago,Crime Contra a Pessoa,Kidnapping for Ransom,Crime Against the Person
+estelionato,Estelionato,Crime Contra a Pessoa,Fraud,Crime Against the Person
+apreensao_drogas,Apreensão de Drogas,Crime de Drogas,Drug Seizure,Drug Crimes
+posse_drogas,Posse de Drogas,Crime de Drogas,Drug Possession,Drug Crimes
+trafico_drogas,Tráfico de Drogas,Crime de Drogas,Drug Trafficking,Drug Crimes
+apreensao_drogas_sem_autor,Apreensão de Drogas sem Autor,Crime de Drogas,Drug Seizure without a Suspect,Drug Crimes
+recuperacao_veiculos,Recuperação de Veículos,Ações Políciais,Vehicle Retrieval,Police Actions
+apf,Auto de Prisão em Flagrante,Ações Políciais,Arrest in Flagrante Delicto,Police Actions
+aaapai,Adolescente Infrator,Outros,Juvenile Offender,Others
+cmp,Cumprimento de Mandado,Ações Políciais,Execution of Warrant,Police Actions
+cmba,Cumprimento de Mandado de Busca e Apreensão,Ações Políciais,Execution of Search and Seizure Warrant,Police Actions
+ameaca,Ameaça,Crime Contra a Pessoa,Threat,Crime Against the Person
+pessoas_desaparecidas,Pessoas Desaparecidas,Outros,Missing Persons,Others
+encontro_cadaver,Encontro de Cadaver,Outros,Discovery of Corpse,Others
+encontro_ossada,Encontro de Ossada,Outros,Discovery of Remains,Others
+pol_militares_mortos_serv,Políciais Militares Mortos em Serviço,Outros,Officers Killed in Service,Others
+pol_civis_mortos_serv,Policiais Civís Mortos em Serviço,Outros,Investigators Killed in Service,Others
+registro_ocorrencias,Total Ocorrências,Total,Total Occurrences,Total
